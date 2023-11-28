@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-![ ](foto Fabi.jpg)
+![ ]([foto Fabi.jpg](https://github.com/Fabitravaglia/Fabitravaglia/blob/main/foto%20Fabi.jpg)https://github.com/Fabitravaglia/Fabitravaglia/blob/main/foto%20Fabi.jpg)
